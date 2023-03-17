@@ -1,0 +1,74 @@
+// Please refer to the following documentation for complete documentation
+// https://help.boldbi.com/embedded-bi/rest-api-reference/site-administration/v1.0/api-reference/#operation/application_startup
+{
+  "ServerConfiguration": {
+    "Database": {
+      "ServerName": "",
+      "DatabaseName": "",
+      "Username": "",
+      "Password": "",
+      "ServerType": "",
+      "IsNewDatabase": "true",
+      "SslEnabled": "false",
+      "MaintenanceDatabase": "",
+      "Port": ""
+    },
+    "Storage": {
+      "StorageType": "0",
+      "AzureBlob": {
+        "AzureBlobStorageContainerName": "",
+        "AzureBlobStorageUri": "",
+        "ConnectionType": "",
+        "AccountName": "",
+        "AccessKey": ""
+      }
+    },
+    "Site": {
+      "TenantName": "",
+      "TenantIdentifier": "",
+      "TenantType": "4"
+    }
+  },
+  "DataStoreConfiguration": {
+      "ServerName": "",
+      "DatabaseName": "",
+      "Username": "",
+      "Password": "",
+      "ServerType": "",
+      "IsNewDatabase": "true",
+      "SslEnabled": "false",
+      "MaintenanceDatabase": "",
+      "Port": ""
+  },
+  "UmsConfiguration": {
+    "Database": {
+      "ServerName": "",
+      "DatabaseName": "",
+      "Username": "",
+      "Password": "",
+      "ServerType": "",
+      "IsNewDatabase": "true",
+      "SslEnabled": "false",
+      "MaintenanceDatabase": "",
+      "Port": ""
+    },
+    "Storage": {
+      "StorageType": "0",
+      "AzureBlob": {
+        "AzureBlobStorageContainerName": "",
+        "AzureBlobStorageUri": "",
+        "ConnectionType": "",
+        "AccountName": "",
+        "AccessKey": ""
+      }
+    },
+    "User": {
+      "Email": "",
+      "FirstName": "",
+      "UserName": "",
+      "LastName": "",
+      "Password": ""
+    },
+    "Unlockkey": ""
+  }
+}
