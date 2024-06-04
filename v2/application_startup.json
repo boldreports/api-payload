@@ -29,17 +29,6 @@
       "TenantType": "4"
     }
   },
-  "DataStoreConfiguration": {
-      "ServerName": "",
-      "DatabaseName": "",
-      "Username": "",
-      "Password": "",
-      "ServerType": "",
-      "IsNewDatabase": "true",
-      "SslEnabled": "false",
-      "MaintenanceDatabase": "",
-      "Port": ""
-  },
   "UmsConfiguration": {
     "Database": {
       "ServerName": "",
