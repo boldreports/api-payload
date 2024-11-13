@@ -11,7 +11,8 @@
       "IsNewDatabase": "true",
       "SslEnabled": "false",
       "MaintenanceDatabase": "",
-      "Port": ""
+      "Port": "",
+      "ServiceInstance":""
     },
     "Storage": {
       "StorageType": "0",
@@ -29,17 +30,6 @@
       "TenantType": "4"
     }
   },
-  "DataStoreConfiguration": {
-      "ServerName": "",
-      "DatabaseName": "",
-      "Username": "",
-      "Password": "",
-      "ServerType": "",
-      "IsNewDatabase": "true",
-      "SslEnabled": "false",
-      "MaintenanceDatabase": "",
-      "Port": ""
-  },
   "UmsConfiguration": {
     "Database": {
       "ServerName": "",
@@ -50,7 +40,8 @@
       "IsNewDatabase": "true",
       "SslEnabled": "false",
       "MaintenanceDatabase": "",
-      "Port": ""
+      "Port": "",
+      "ServiceInstance":""
     },
     "Storage": {
       "StorageType": "0",
@@ -69,6 +60,8 @@
       "LastName": "",
       "Password": ""
     },
-    "Unlockkey": ""
+    "Unlockkey": "",
+    "LicenseToken":"",
+    "OfflineLicenseToken":""
   }
 }
